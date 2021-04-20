@@ -1,0 +1,44 @@
+body{
+    margin: 50pt;
+}
+
+.submit {
+    border: rgb(1, 245, 245) 2px solid;
+    background-color: rgb(252, 253, 253);
+    padding: 10px 50px 10px 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: turquoise;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    display: block;
+    text-align: center;
+}
+
+.plus {
+    color:white;
+    border-radius: 50%;
+    background-color: aqua;
+    border: aqua;
+    /* margin-bottom: 15px;
+    padding: 15px; */
+    display: block;
+    text-align: center;
+    font-size: 16pt;
+    font-display: block;
+    height: 30px;
+    width: 37px;
+}
+
+.account {
+    color: white;
+    background-color:blue;
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px 50px 10px 50px;
+    font-size: 12pt;
+    /* height: 20px;
+    width: 150px; */
+    text-align: center;
+    box-shadow: 5px 5px 5px black;
+}
